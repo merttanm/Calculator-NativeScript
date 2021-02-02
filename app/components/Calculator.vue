@@ -223,7 +223,7 @@
 <style scoped>
     .home-panel {
         vertical-align: top;
-        font-size: 20;
+       /* font-size: 20;*/
         background-color: black;
     }
 
